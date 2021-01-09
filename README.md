@@ -5,5 +5,5 @@
 3. Install VSCode
 4. Enter cmd > type the command : cd path of the directory of the Angular-FE > code .
 5. Run in terminal VSCode by "ng serve" command
-Frontend side: http://localhost:4200/employees
+Frontend side: http://localhost:4200/employees<br>
 Backend side: http://localhost:8080/api/v1/employees
